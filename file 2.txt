@@ -1,2 +1,6 @@
 This is the second file
+<<<<<<< HEAD
 Change by Y
+=======
+change by X
+>>>>>>> 493b87cece7cbf7d78e7019f29ffd18322f1adff
