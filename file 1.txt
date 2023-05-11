@@ -1,3 +1,7 @@
 This is the first file
 change by X
+<<<<<<< HEAD
 Another change by Y
+=======
+Another change by X
+>>>>>>> 82f286bdf008460a09be8006bc495c061e8daa35
