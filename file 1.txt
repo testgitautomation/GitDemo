@@ -1,7 +1,1 @@
-This is the first file correct
-<<<<<<< HEAD
-chY
-=======
-chX
->>>>>>> b087197197c46c037846706f1540f8e80207834a
-
+This is the first file
